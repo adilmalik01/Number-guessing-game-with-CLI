@@ -1,0 +1,1 @@
+About This Is a simple Number Guessing game  with inquirer and chalk in typescript and I publish this project on npm Open you terminal CLI Command prompt and type ( npx adil-number-guessing-game  ) to check my project
